@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     alignItems: "flex-start",
   },
   title: {
-    fontSize: 24,
+    fontSize: 30,
     fontWeight: "bold",
     marginBottom: 10,
   },
@@ -72,6 +72,7 @@ const styles = StyleSheet.create({
     fontSize: 18,
     color: "gray",
     marginBottom: 10,
+    color: "#007AFF",
   },
   rating: {
     alignSelf: "flex-start",

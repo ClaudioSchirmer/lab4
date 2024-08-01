@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
   },
   author: {
     fontSize: 16,
-    color: "gray",
+    color: "#007AFF",
     marginBottom: 10,
   },
   rating: {
